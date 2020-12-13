@@ -34,7 +34,7 @@ namespace CreatePDF
                 PaperSize = PaperKind.Letter,
                 Margins = new MarginSettings { Top = 10, Left = 10, Right = 10, Bottom = 10 },
                 DocumentTitle = "PDF Report",
-                Out = @"D:\PDFCreator\Employee_Report.pdf"
+                //Out = @"D:\PDFCreator\Employee_Report.pdf"
             };
             var objectSettings = new ObjectSettings
             {
@@ -49,9 +49,9 @@ namespace CreatePDF
             };
 
 
-            Convert.ToBase64String(convert.Convert(pdf));
+            string pdfBase64 = Convert.ToBase64String(convert.Convert(pdf));
 
-            return "Convertido";
+            return pdfBase64;
 
         }
     }
