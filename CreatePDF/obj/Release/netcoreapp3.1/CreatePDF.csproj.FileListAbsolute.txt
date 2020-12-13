@@ -5,10 +5,10 @@ C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Release\netcoreap
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Release\netcoreapp3.1\CreatePDF.dll
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Release\netcoreapp3.1\CreatePDF.pdb
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Release\netcoreapp3.1\DinkToPdf.dll
-C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csprojAssemblyReference.cache
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.AssemblyInfoInputs.cache
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.AssemblyInfo.cs
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csproj.CoreCompileInputs.cache
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csproj.CopyComplete
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.dll
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.pdb
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csprojAssemblyReference.cache

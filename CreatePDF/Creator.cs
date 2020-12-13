@@ -12,13 +12,18 @@ namespace CreatePDF
         {
             var convert = BasicConverterCustom.Instance;
 
-            var plantillaHTML = plantilla.Plantilla;
+            var plantillaHTML = new PlantillaParametros().Plantilla;
 
             foreach (var parametro in plantilla.Parametros)
             {
-                if (plantillaHTML.Contains("[" + parametro.NombreCampo + "]"))
+                plantillaHTML += plantilla.Plantilla;
+
+                foreach (var par in parametro)
                 {
-                    plantillaHTML = plantillaHTML.Replace("[" + parametro.NombreCampo + "]", parametro.Valor);
+                    if (plantillaHTML.Contains("[" + par.NombreCampo + "]"))
+                    {
+                        plantillaHTML = plantillaHTML.Replace("[" + par.NombreCampo + "]", par.Valor);
+                    }
                 }
             }
 
@@ -28,7 +33,8 @@ namespace CreatePDF
                 Orientation = Orientation.Portrait,
                 PaperSize = PaperKind.Letter,
                 Margins = new MarginSettings { Top = 10, Left = 10, Right = 10, Bottom = 10 },
-                DocumentTitle = "PDF Report"
+                DocumentTitle = "PDF Report",
+                Out = @"D:\PDFCreator\Employee_Report.pdf"
             };
             var objectSettings = new ObjectSettings
             {
@@ -43,9 +49,9 @@ namespace CreatePDF
             };
 
 
-            string file = Convert.ToBase64String(convert.Convert(pdf));
+            Convert.ToBase64String(convert.Convert(pdf));
 
-            return file;
+            return "Convertido";
 
         }
     }
