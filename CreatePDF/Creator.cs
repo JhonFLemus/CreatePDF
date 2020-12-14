@@ -32,7 +32,7 @@ namespace CreatePDF
                 ColorMode = ColorMode.Color,
                 Orientation = Orientation.Portrait,
                 PaperSize = PaperKind.Letter,
-                Margins = new MarginSettings { Top = 10, Left = 10, Right = 10, Bottom = 10 },
+                Margins = new MarginSettings { Top = 5, Left = 5, Right = 5, Bottom = 5 },
                 DocumentTitle = "PDF Report",
                 //Out = @"D:\PDFCreator\Employee_Report.pdf"
             };

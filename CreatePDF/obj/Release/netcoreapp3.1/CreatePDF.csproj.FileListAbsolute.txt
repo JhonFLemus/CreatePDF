@@ -11,4 +11,3 @@ C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreap
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csproj.CopyComplete
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.dll
 C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.pdb
-C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Release\netcoreapp3.1\CreatePDF.csprojAssemblyReference.cache
