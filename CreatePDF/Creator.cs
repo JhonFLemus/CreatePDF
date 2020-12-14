@@ -5,7 +5,7 @@ using DinkToPdf;
 
 namespace CreatePDF
 {
-    // Test rama git
+    // Test rama comparecientes
     public class Creator
     {
         public string CreatePDF(PlantillaParametros plantilla)
