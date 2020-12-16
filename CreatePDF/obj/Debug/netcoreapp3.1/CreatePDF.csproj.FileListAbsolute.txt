@@ -1,0 +1,13 @@
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\x64\libwkhtmltox.dll
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\x64\libwkhtmltox.dylib
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\x64\libwkhtmltox.so
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\CreatePDF.deps.json
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\CreatePDF.dll
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\CreatePDF.pdb
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\bin\Debug\netcoreapp3.1\DinkToPdf.dll
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.AssemblyInfoInputs.cache
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.AssemblyInfo.cs
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.csproj.CoreCompileInputs.cache
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.csproj.CopyComplete
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.dll
+C:\Users\jhonf\OneDrive\Escritorio\DEV\CreatePDF\CreatePDF\obj\Debug\netcoreapp3.1\CreatePDF.pdb

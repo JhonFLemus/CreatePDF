@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ne5ulFmILFwYmUTp+y5XbdOMb97pR4z9xP3U6mrteyY2ia6QjyJ+mz0LlrphSrMl9RQ9+4hxTXCypbtb7AZKvA==",
+  "dgSpecHash": "Iifsf60kFjFv/rcrEV8ZZnQljnGGBcnmZHKO3v4xtDtW+3D9hLhpT+f0AgrBsIsAkg4Ye9qHBVLuGgO5ax+rww==",
   "success": true,
   "projectFilePath": "C:\\Users\\jhonf\\OneDrive\\Escritorio\\DEV\\CreatePDF\\CreatePDF\\CreatePDF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonf\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512"
+  ],
   "logs": []
 }
